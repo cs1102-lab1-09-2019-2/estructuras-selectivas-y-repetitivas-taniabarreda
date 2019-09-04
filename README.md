@@ -1,10 +1,10 @@
 # Ejercicios de estructura de control 2
 ## Selectivas y Repetitivas
 
-Nombre:
+Nombre: Tania Barreda Galvez
 --
 
-Github Username:
+Github Username: taniabarreda
 --
 
 Instrucciones:
